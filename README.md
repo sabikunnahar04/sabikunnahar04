@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Sabikunnahar</h1>
-<h3 align="center">Aspiring Full-Stack Developer | CSE Student from Bangladesh</h3>
-
 <p align="center">
   <img src="./banner.png" alt="Profile Banner" width="100%" />
 </p>
@@ -9,7 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=sabikunnahar04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h1 align="center">Hi 👋, I'm Sabikunnahar</h1>
+<h3 align="center">Aspiring Full-Stack Developer | CSE Student from Bangladesh</h3>
 
 <h3 align="left">👩‍💻 About Me</h3>
 
