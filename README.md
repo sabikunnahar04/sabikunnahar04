@@ -11,11 +11,13 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
+<h3 align="left">👩‍💻 About Me</h3>
+
 <ul>
-  <li>🎓 I'm a CSE student at Faridpur Engineering College.</li>
   <li>💻 I'm an aspiring Full-Stack Developer.</li>
   <li>🌱 Currently learning and improving my web development skills.</li>
-  <li>📍 From Bangladesh.</li>
+  <li>🚀 Currently building full-stack web applications and improving my skills in Next.js, TypeScript, Node.js, and MongoDB.</li>
+ <li>📍 Location: Mymensingh, Bangladesh.</li>
   <li>📧 Email: <a href="mailto:sabikunnahar0506@gmail.com">sabikunnahar0506@gmail.com</a></li>
 </ul>
 
@@ -73,6 +75,10 @@
 <h3 align="left">🤝 Connect with Me</h3>
 
 <p align="left">
+
+  <a href="https://my-portfolio-flax-nine-98.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-173f31?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
   <a href="https://github.com/sabikunnahar04">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
